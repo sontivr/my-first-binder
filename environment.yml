@@ -16,4 +16,4 @@ dependencies:
     - pytest==7.1.1
     - pandas==1.3.5
     - seaborn==0.11.2
-    - ipwidgets==7.6.5
+    - ipwidgets==8.0.4
